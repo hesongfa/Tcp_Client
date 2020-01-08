@@ -1,0 +1,12 @@
+﻿  源.c
+F:\socket  client\socket  client\源.c(152,17): warning C4101: “pBufn”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(160,6): warning C4101: “re”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(159,6): warning C4101: “receive”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(153,6): warning C4101: “nr”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(54,18): warning C4101: “feat1”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(58,16): warning C4101: “infosend”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(52,14): warning C4101: “data”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(81,8): warning C4101: “ptr”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(154,14): warning C4101: “datan”: 未引用的局部变量
+F:\socket  client\socket  client\源.c(128,7): warning C4101: “sendMessage”: 未引用的局部变量
+  socket  client.vcxproj -> F:\socket  client\Debug\socket  client.exe
